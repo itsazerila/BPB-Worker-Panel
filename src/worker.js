@@ -1,4 +1,3 @@
-// https://github.com/bia-pain-bache/ZFD-Worker-Panel
 import { connect } from 'cloudflare:sockets';
 import nacl from 'tweetnacl';
 import sha256 from 'js-sha256';
